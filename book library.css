@@ -1,0 +1,33 @@
+body{
+    background-image: url("./Images/book\ library1.png");
+    background-size: cover;
+    /* position: relative; */
+}
+h1{
+    text-align: center;
+    font-size: 400%;
+
+}
+div{
+    break-inside: avoid-column;
+    width: 25%;
+    height: 500px; 
+    float: left;
+    color: rgb(255, 0, 0);
+    padding: 55px;
+    
+}
+
+div h1{
+    text-align: center;
+}
+ p{
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+
+img{
+    width: 75%;
+    height: 300px;
+}
